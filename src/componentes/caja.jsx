@@ -15,7 +15,7 @@ function Cajas(props) {
         className='contenedorParrafo'>{props.texto}
       </p>
       <button
-        className='botonMasInfo'>Ver más información
+        className='botonMasInfo'>Más información
       </button>
     </div>
   );

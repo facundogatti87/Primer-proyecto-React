@@ -18,7 +18,7 @@
     justify-content: center;
 }
 
-@media screen and (max-width: 950px){
+@media screen and (max-width: 700px){
   .contenedorCajas{
     display: inline-block;
   }
@@ -55,7 +55,7 @@
     position: relative;
     display: inline-block;
     outline: none;
-    border-radius: 20px;
+    border-radius: 15px;
     border: 2px solid #495057;
     background: #495057;
     margin: 0.3em;
